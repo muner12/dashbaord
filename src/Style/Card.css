@@ -1,0 +1,6 @@
+.custom-button{
+    outline: none !important;
+}
+.rsm-segment {
+    stroke-width: 2px; /* Set the desired stroke width of the segments */
+  }
