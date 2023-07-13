@@ -493,7 +493,10 @@ const DashBoard = () => {
             <p className="text-[10px] font-semibold text-[#737475]">
               Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
               nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
+              erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+              nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
               erat volutpat.
+              
             </p>
             <h5 className="text-[#b1b1b1] font-semibold text-sm">Monthly</h5>
             <h2 className="flex items-end font-bold text-[#737475]">
