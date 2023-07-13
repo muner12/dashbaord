@@ -33,7 +33,7 @@ const AccessControl = () => {
             class="text-[#38bf67] font-semibold   !outline-none border-[2px] text-sm border-[#38bf67] px-2 w-32  justify-center   py-1 flex text-center items-center rounded-sm"
             fdprocessedid="xwgfij"
           >
-            Create New Rule__
+            Create New Rule___
           </button>
 
           <button
